@@ -2,7 +2,7 @@
 
 Prerequisites: Python 3.x
 
-Clone the repository
+Clone the repository:
 
 git clone https://github.com/sumertulsyan-per/yara_project.git
 
